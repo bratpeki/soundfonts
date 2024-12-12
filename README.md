@@ -9,6 +9,11 @@ Since GitHub's standard filesize limit is set to 100MB, some soundfonts are omit
 | ✅ | `Masterpiece.sf2` | | [Website - rKhive](https://rkhive.com/banks.html) | [CC0 1.0](https://rkhive.com/legal.html) |
 | ✅ | `Unison.SF2` | | [Website - rKhive](https://rkhive.com/banks.html) | [CC0 1.0](https://rkhive.com/legal.html) |
 
+## CC BY 3.0
+
+| Included | Filename | Description | Source | Licence |
+| - | - | - | - | - |
+| ✅ | `909_drum_sf.sf2` | *"909 Drum Soundfont"*, taken from Online Sequencer | [Website - Polyphone Soundfonts](https://musical-artifacts.com/artifacts/1971) | [CC Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.en) |
 
 ## GPLv2
 
